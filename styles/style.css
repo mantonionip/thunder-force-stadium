@@ -713,7 +713,7 @@ a.copyright-link:hover {
     .mobile-nav-hidden ul {
         background-color: #9200FF;
         width: 50%;
-        height: 50vh;
+        height: 80vh;
         border-radius: 0 0 0 30px;
         z-index: 2;
         position: fixed;
@@ -730,7 +730,7 @@ a.copyright-link:hover {
     }
 
     .mobile-nav-hidden li:first-child {
-        padding-top: 50px;
+        padding-top: 100px;
     }
 
     .mobile-nav-hidden li:last-of-type {
