@@ -2,7 +2,7 @@
 
 ## Juno College BootCamp - Project One
 
-[Live Demo](https://mantonionip.github.io/thunder-force-stadium/)
+[Live Demo](https://mehdipilehvarian.dev/thunderstadium/)
 
 ![](assets/screenShot.png)
 
